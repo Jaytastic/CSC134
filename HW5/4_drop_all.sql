@@ -1,0 +1,9 @@
+DROP TABLE Edited_by;
+DROP TABLE Editor;
+DROP TABLE Written_by;
+DROP TABLE Author;
+DROP TABLE Order_book;
+DROP TABLE Book;
+DROP TABLE Publisher;
+DROP TABLE Orders;
+DROP TABLE Customer;
